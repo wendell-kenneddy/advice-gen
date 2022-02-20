@@ -27,7 +27,7 @@ export default function Home() {
         <meta property="og:title" content="Advice Gen" />
         <meta property="og:site_name" content="Advice Gen" />
         <meta property="og:description" content="An advice generator app." />
-        {/* <meta property="og:url" content="" /> */}
+        <meta property="og:url" content="https://advicegenwk.vercel.app/" />
         <meta property="og:locale" content="en" />
         <meta property="twitter:card" content="summary" />
         <meta property="twitter:title" content="Advice Gen" />
@@ -35,9 +35,12 @@ export default function Home() {
           property="twitter:description"
           content="An advice generator app."
         />
-        {/* <meta property="twitter:url" content="" /> */}
+        <meta
+          property="twitter:url"
+          content="https://advicegenwk.vercel.app/"
+        />
         <title>Advice Gen</title>
-        {/* <link rel="canonical" href="" /> */}
+        <link rel="canonical" href="https://advicegenwk.vercel.app/" />
       </Head>
 
       <main
